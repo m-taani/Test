@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moscheebesuch-dresden.netlify.app/sitemap.xml
